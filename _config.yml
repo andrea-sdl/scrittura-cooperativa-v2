@@ -1,0 +1,22 @@
+title:            Scrittura Cooperativa V2
+description:      non sappiamo dove arriveremo, e noi stessi non abbiamo idea di come faremo.
+url:              scritturacooperativa.italicograssetto.net
+signoff:          Francesco e Andrea
+disqus_shortname: scritturacooperativa # disqus comment thread for post header options. ( leave blank if unwanted. )
+facebook_appid:   1405871742983467 # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: UA-339403-12
+
+links:
+  - name:         Lista Capitoli
+    url:          /
+  - name:         Ultimo Racconto
+    url:          /2011/02/27/capitolo-2-racconto-11-di-tutto-quello-che-possiamo-avere-questa-e-lunica-c/
+  - name:         Primo Racconto
+    url:          /2008/05/29/intro-a-volte-il-cielo-/
+  - name:         Chi siamo
+    url:          /chi-siamo
+pygments:         true
+permalink:        pretty
+markdown:         rdiscount
+rdiscount:
+  extensions:     [smart]
